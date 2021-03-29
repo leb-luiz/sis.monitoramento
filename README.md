@@ -1,2 +1,2 @@
 # sis.monitoramento
-Sistema de monitoramento fictício para hospital.
+Sistema de monitoramento em FreeRTOS fictício para hospital.
